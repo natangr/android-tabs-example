@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first">Primeiro</string>
+    <string name="second">Segundo</string>
+
+    <string name="hello">OLÁ</string>
+</resources>
